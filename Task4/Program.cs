@@ -32,3 +32,8 @@ for (int i = 1; i <= n; i++)
   }
   Console.WriteLine();
 }
+
+/*
+This time everytime i >= j we get the * and " " space. 
+Because the star and space take double the amount of space, it pushes the shape in both directions leading to centered triangle.
+*/
